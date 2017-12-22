@@ -8,3 +8,6 @@
 
 -Telah melakukan instalisasi ubuntu pada virtual box 
 ![a2](https://user-images.githubusercontent.com/32188146/34299103-b65cecea-e753-11e7-841c-13ac30278a7a.jpg)
+
+-Percobaan assembly program sederhana menggunakan linux
+![a4](https://user-images.githubusercontent.com/32188146/34303110-9194884c-e766-11e7-9791-949c7dd47038.jpg)
